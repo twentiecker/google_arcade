@@ -23,7 +23,7 @@ Follow these step:
    - InfoTypes to transform: Any detected infoTypes defined in an inspection template or inspect config that are not specified in other rules
 3. SAVE
    ![alt text](image.png)
-4. Expand Transformation rule. InfoTypes to transform: Any detected infoTypes defined in an inspection template or inspect config that are not specified in other rules
+4. Expand Transformation rule, at section InfoTypes to transform: Any detected infoTypes defined in an inspection template or inspect config that are not specified in other rules
    ![alt text](image-1.png)
 
 ### Run again the following Commands in CloudShell
@@ -37,9 +37,3 @@ sudo chmod +x arc116-2.sh
 ```
 
 ### Congratulations 🎉 for Completing the Lab!
-
-#### Outstanding work! Your commitment has made this accomplishment possible.
-
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion Group](https://t.me/quickgcplabchats).
-
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)

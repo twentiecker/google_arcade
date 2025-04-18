@@ -31,7 +31,3 @@ sudo chmod +x gsp321.sh
 5. Leave everything as default. Click `Create`
 
 ### Congratulations 🎉 for completing the Challenge Lab !
-
-##### _You Have Successfully Demonstrated Your Skills And Determination._
-
-#### _Well done!_
