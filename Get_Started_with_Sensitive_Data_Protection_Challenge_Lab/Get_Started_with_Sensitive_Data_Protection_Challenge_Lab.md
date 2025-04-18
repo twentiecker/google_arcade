@@ -3,7 +3,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/refs/heads/main/Get%20Started%20with%20Sensitive%20Data%20Protection%20Challenge%20Lab/arc116-1.sh
+curl -LO raw.githubusercontent.com/Get_Started_with_Sensitive_Data_Protection_Challenge_Lab/arc116-1.sh
 
 sudo chmod +x arc116-1.sh
 
@@ -30,7 +30,7 @@ Follow these step:
 ### Run again the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/refs/heads/main/Get%20Started%20with%20Sensitive%20Data%20Protection%20Challenge%20Lab/arc116-2.sh
+curl -LO raw.githubusercontent.com/Get_Started_with_Sensitive_Data_Protection_Challenge_Lab/arc116-2.sh
 
 sudo chmod +x arc116-2.sh
 
