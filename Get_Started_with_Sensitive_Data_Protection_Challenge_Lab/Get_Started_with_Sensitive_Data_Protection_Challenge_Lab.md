@@ -10,20 +10,25 @@ sudo chmod +x arc116-1.sh
 ./arc116-1.sh
 ```
 
-click link Structured Data Template URL and Unstructured Data Template URL
+Click link "Structured Data Template URL" and "Unstructured Data Template URL"
 ![alt text](image-2.png)
 
 Follow these step:
+A. Structured Data Template URL
 
-1. click ADD TRANSFORMATION RULE
+1. Click ADD TRANSFORMATION RULE
    - Field(s) or column(s) to transform: message
    - Transformation type: Match on infoType
-2. click ADD TRANSFORMATION:
+2. Click ADD TRANSFORMATION:
    - Transformation: Replace with infoType name
    - InfoTypes to transform: Any detected infoTypes defined in an inspection template or inspect config that are not specified in other rules
 3. SAVE
    ![alt text](image.png)
-4. Expand Transformation rule, at section InfoTypes to transform: Any detected infoTypes defined in an inspection template or inspect config that are not specified in other rules
+
+B. Unstructured Data Template URL
+
+1. Expand Transformation rule, at section InfoTypes to transform: Any detected infoTypes defined in an inspection template or inspect config that are not specified in other rules
+2. SAVE
    ![alt text](image-1.png)
 
 ### Run again the following Commands in CloudShell
