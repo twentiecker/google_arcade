@@ -17,24 +17,23 @@ sudo chmod +x gsp321.sh
 ### Task 8. Enable monitoring
 
 1. Go to [Services and Ingress](https://console.cloud.google.com/kubernetes/discovery)
-2. Copy `endpoint's`(wordpress) `IP address`.
+2. Copy `endpoint's`(wordpress) `IP address`. (34.30.27.240)
+   ![alt text](image.png)
 3. Then go to -> [Uptime Checks](https://console.cloud.google.com/monitoring/uptime) -> `+ CREATE UPTIME CHECK`.
 4. Fill in the details as provided below :
 
 - Hostname : `endpoint's IP address` (without http and port number)
 
 - Path : `/`
+  ![alt text](image-2.png)
 
 - Title: `Wordpress Uptime`
+  ![alt text](image-1.png)
 
-5. Leave everything as default. Click `Next` -> `Next` -> `Create`
+5. Leave everything as default. Click `Create`
 
 ### Congratulations 🎉 for completing the Challenge Lab !
 
 ##### _You Have Successfully Demonstrated Your Skills And Determination._
 
 #### _Well done!_
-
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
-
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
