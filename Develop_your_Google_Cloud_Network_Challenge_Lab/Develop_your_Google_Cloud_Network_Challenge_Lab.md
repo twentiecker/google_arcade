@@ -7,8 +7,6 @@ export ZONE=
 ```
 
 ```
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Develop%20your%20Google%20Cloud%20Network%20Challenge%20Lab/gsp321.sh
-
 curl -LO raw.githubusercontent.com/Develop_your_Google_Cloud_Network_Challenge_Lab/gsp321.sh
 
 sudo chmod +x gsp321.sh
