@@ -23,9 +23,8 @@ Follow these step:
    - InfoTypes to transform: Any detected infoTypes defined in an inspection template or inspect config that are not specified in other rules
 3. SAVE
    ![alt text](image.png)
-4. Expand Transformation rule
-   - InfoTypes to transform: Any detected infoTypes defined in an inspection template or inspect config that are not specified in other rules
-     ![alt text](image-1.png)
+4. Expand Transformation rule. InfoTypes to transform: Any detected infoTypes defined in an inspection template or inspect config that are not specified in other rules
+   ![alt text](image-1.png)
 
 ### Run again the following Commands in CloudShell
 
